@@ -16,7 +16,7 @@ The crux of the workshop is inspired by the super conscise book “It depends”
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">I wrote my first book today. Here it is in its entirety… <a href="https://t.co/emRbyrZiUe">pic.twitter.com/emRbyrZiUe</a></p>&mdash; Trent Walton (@TrentWalton) <a href="https://twitter.com/TrentWalton/status/689831145039495172">January 20, 2016</a></blockquote>
 
-*Yes. It depends.* That would be the answer to your question – What design process should we use for the ‘X’ product?– to any product designers. In the course of the  workshop we will walk you through on how to expand the ‘it depends’ for the product your are going to build.
+*Yes. It depends.* That would be the answer to your question – “What design process should we use for the ‘X’ product?” – to any product designers. In the course of the  workshop we will walk you through on how to expand all the ‘it depends’ for the product your are going to build.
 
 ## Table of Contents
 
