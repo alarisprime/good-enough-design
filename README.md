@@ -14,7 +14,7 @@ All this will help you to spend the en­ergy – wasted on fights be­tween your
 
 The crux of the workshop is inspired by the super conscise book “It depends” by [Trent Walton](https://twitter.com/trentwalton).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I wrote my first book today. Here it is in its entirety… <a href="https://t.co/emRbyrZiUe">pic.twitter.com/emRbyrZiUe</a></p>&mdash; Trent Walton (@TrentWalton) <a href="https://twitter.com/TrentWalton/status/689831145039495172">January 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">I wrote my first book today. Here it is in its entirety… <a href="https://t.co/emRbyrZiUe">pic.twitter.com/emRbyrZiUe</a></p>&mdash; Trent Walton (@TrentWalton) <a href="https://twitter.com/TrentWalton/status/689831145039495172">January 20, 2016</a></blockquote>
 
 In the course of the  workshop we will walk you through on how to expand the ‘it depends’. 
 
