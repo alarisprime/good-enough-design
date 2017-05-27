@@ -1,1 +1,1 @@
-# Foundations of interface design
+# Foundations Of Interface Design

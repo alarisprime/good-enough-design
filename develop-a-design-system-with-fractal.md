@@ -1,1 +1,1 @@
-# Develop design system using Fractal
+# Develop a Design System Using Fractal

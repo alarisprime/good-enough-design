@@ -10,4 +10,6 @@ Through smart choices we can speed up the de­sign phase. Through a liv­ing sty
 
 All this will help you to spend the en­ergy – wasted on fights be­tween your de­vel­op­ment and de­sign teams – on mak­ing a bet­ter prod­uct.
 
+---
+
 An [Alaris Prime](https://alarisprime.com/) initiative.

@@ -1,1 +1,1 @@
-# Sprint for rapid product concept
+# Sprint for Rapid Product Concept
