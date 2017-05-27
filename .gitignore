@@ -1,36 +1,51 @@
-*.sublime-project
-*.sublime-workspace
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
-# Ignore hidden folders #
-# This takes care of .tmp, .sass-cache, and many others #
-.*/
+# Icon must end with two \r
+Icon
 
-# Ignore OS generated files #
-.DS_Store*
-ehthumbs.db
-Icon?
-Thumbs.db
 
-# Always-ignore files and folders #
-*.diff
-*.err
-*.log
-*.orig
-*.rej
-*.swn
-*.swo
-*.swp
+# Thumbnails
 ._*
-*~
 
-# Ignore packages #
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-.gtm/
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+# Add more here onwards
