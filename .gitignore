@@ -47,5 +47,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-# Add more here onwards
+# Gitbook generated
+_book
