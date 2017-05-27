@@ -2,6 +2,7 @@
 
 * [Preface](README.md)
 * [About the Workshop](about-the-workshop.md)
+* [Things you’ll need](things-you-will-need.md)
 
 ## Day 1
 * [Preamble](preamble.md)
