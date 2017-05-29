@@ -5,21 +5,23 @@
 * [Things you’ll need](things-you-will-need.md)
 
 ## Day 1
-* [Preamble](preamble.md)
-* [Pick an Idea](pick-an-idea.md)
+* [Preamble](./day-01/preamble.md)
+* [Pick an Idea](./day-01/pick-an-idea.md)
+* [Design with text](./day-01/designing-with-text.md)
 
 ## Day 2
-* [User Flows](user-flows.md)
-* [Sprint for Rapid Product Concept](sprint-for-rapid-product-concept.md)
-* [Thinking in Components](thinking-in-components.md)
+* [Sprint for Product Concept](./day-02/sprint-for-product-concept.md)
+* [Principles of Atomic Design](./day-02/principles-of-atomic-design.md)
+* [Interface Inventory](./day-02/interface-inventory.md)
 
 ## Day 3
-* [Foundations of interface design](foundations-of-interface-design.md)
-* [Scaffolding Fractal](scaffolding-fractal.md)
+* [Design Language](./day-03/design-language.md)
+* [Interface design](./day-03/interface-design.md)
+* [Scaffold a Style Guide using Fractal](./day-03/scaffold-fractal.md)
 
 ## Day 4
-* [Develop design system using Fractal](develop-a-design-system-with-fractal.md)
-* [Wrong turns to avoid while making a design system](wrong-turns-to-avoid-while-making-a-design-system.md)
+* [Developing a Style Guide](./day-04/developing-a-style-guide.md)
+* [Maintaining Style Guide](./day-04/maintaining-style-guide.md)
 
 ---
 

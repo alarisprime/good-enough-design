@@ -1,1 +1,0 @@
-# Wrong turns to avoid while making a design system

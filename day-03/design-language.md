@@ -1,4 +1,4 @@
-# Foundations Of Interface Design
+# Design Language
 
 - Style Tiles
 - The 20 Second Gut Test[^1]
