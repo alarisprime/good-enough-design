@@ -1,5 +1,10 @@
 {
   "title": "Good Enough Design for Responsive Web Apps",
+  "pluginsConfig": {
+    "fontsettings": {
+      "family": "serif"
+    }
+  },
   "pdf": {
     "fontFamily": "Helvetica Neue"
   }
