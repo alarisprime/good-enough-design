@@ -12,12 +12,16 @@
 * [User Flows](user-flows.md)
 * [Sprint for Rapid Product Concept](sprint-for-rapid-product-concept.md)
 * [Thinking in Components](thinking-in-components.md)
-* [Foundations of interface design](foundations-of-interface-design.md)
 
 ## Day 3
+* [Foundations of interface design](foundations-of-interface-design.md)
+* [Scaffolding Fractal](scaffolding-fractal.md)
+
+## Day 4
 * [Develop design system using Fractal](develop-a-design-system-with-fractal.md)
 * [Wrong turns to avoid while making a design system](wrong-turns-to-avoid-while-making-a-design-system.md)
 
 ---
 
 * [About Alaris Prime](about-alaris-prime.md)
+* [Credits](credits.md)
