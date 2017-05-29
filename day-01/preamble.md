@@ -1,5 +1,3 @@
 # Preamble
 
-## What is a design system?
-## Why do you need one?
-## Priorities
+_Will be Updated soon_
