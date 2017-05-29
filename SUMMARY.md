@@ -1,6 +1,6 @@
 # Summary
 
-* [Preface](README.md)
+* [Front Page](README.md)
 * [About the Workshop](about-the-workshop.md)
 * [Things you’ll need](things-you-will-need.md)
 
