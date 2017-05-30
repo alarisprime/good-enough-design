@@ -1,0 +1,15 @@
+{
+	"rules": {
+		"no-todo": true,
+		"rousseau": {
+			"showLevels": ["suggestion", "warning", "error"]
+		},
+		"alex": {
+			"allow": []
+		},
+		"terminology": {}
+	},
+	"filters": {
+		"comments": true
+	},
+}

@@ -49,3 +49,5 @@ $RECYCLE.BIN/
 
 # Gitbook generated
 _book
+
+node_modules
