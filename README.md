@@ -6,4 +6,4 @@ Contact us or ask your company to book a [Workshop Session](https://alarisprime.
 
 ---
 
-An [Alaris Prime](https://alarisprime.com/) initiative.
+© 2017 [Alaris Prime](https://alarisprime.com/). Released under an MIT License.
