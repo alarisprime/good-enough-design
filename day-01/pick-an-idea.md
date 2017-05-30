@@ -1,8 +1,10 @@
 # Pick an Idea
 
-Each team pick a product idea to start with. It’s recommended for each team to come up with their own idea to work with. If team is not able find any idea pick one from the below canned ideas. The teams will be given 15 minutes to brainstorm and come up with an idea.
+Each team pick a product idea to start with. It’s recommended for each team to come up with their own idea to work with. If team is not able find any idea pick one from the below canned ideas. The teams will get 15 minutes to brainstorm and come up with an idea.
 
-Once team is agreed on a idea. Write the core purpose or a one-sentence description[^1] for the product. The team gets 30 minutes to come up the purpose. The purpose is used for weighing each decisions the team makes during the course of the workshop. So it’s crucial that the choses one sentence communicates the essence of the product.
+Once team agrees on an idea, write a core purpose or a one-sentence description[^1] for the product. The team gets 30 minutes to come up the purpose. We will use the chosen purpose sentence to weigh each decisions we take during the course of the workshop. Because of that it’s crucial for that sentence to communicate the essence of the product.
+
+Example of the one-liner for Uber app is “You push a button and in five minutes a Mercedes picks you up and takes you where you want to go.”
 
 ## Some product ideas
 

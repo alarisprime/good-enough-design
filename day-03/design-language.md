@@ -1,3 +1,3 @@
 # Design Language
 
-_Will be Updated soon_
+_Will update soon_

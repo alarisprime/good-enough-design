@@ -1,3 +1,3 @@
 # Maintaining the style guide
 
-_Will be Updated soon_
+_Will update soon_

@@ -1,3 +1,3 @@
 # Scaffold a Style Guide using Fractal
 
-_Will be Updated soon_
+_Will update soon_
