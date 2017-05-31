@@ -1,5 +1,6 @@
 {
   "name": "good-enough-design",
+  "description": "Notes and materials from workshop on ‘Good Enough Design for Responsive Web Apps’ by Alaris Prime",
   "version": "0.0.0",
   "scripts": {
     "test": "textlint ./**/*.md"
