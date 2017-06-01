@@ -1,6 +1,6 @@
 # Preamble
 
-In 2011, Ethan Marcotte with his book titled, [‘Responsive Web Design’](https://abookapart.com/products/responsive-web-design) showed us the power of fluid grids, flexible images, and media queries. How to use them to craft web pages that worked across different sizes of screens. The content, text, images, and other media, responded to the size of the screens (viewport), enabled the user to access them irrespective of the screen size and interaction methods (mouse or touch based interactions).
+In 2011, Ethan Marcotte with his book titled, ‘[Responsive Web Design](https://abookapart.com/products/responsive-web-design)’ showed us the power of fluid grids, flexible images, and media queries. How to use them to craft web pages that worked across different sizes of screens. The content, text, images, and other media, responded to the size of the screens (viewport), enabled the user to access them irrespective of the screen size and interaction methods (mouse or touch based interactions).
 
 Till then, PSD-to-HTML workflow served us well in making beautiful sites. The complexity of the responsive web design (RWD) brought the PSD-to-HTML production lines to a grinding halt. Our learning so far with web design based on the desktop-centric browsing seemed not adequate for the new responsive web design. We came across new problems like: mouse pointers vs fat finger, hover states, screen sizes, connection speeds, device capabilites etc.
 
@@ -22,4 +22,4 @@ Why did we adopted these responsive frameworks in the first place? They werw eas
 We need our own tiny bootstraps[^2] tailored for our products. They should built with our project and design language needs. They should be flexible and scalable. That’s what we are going to build by the end of this workshop.
 
 [^1]: We are not focusing on Twitter Bootstrap. The arguments are valid to all responsive frameworks out there.
-[^2]: [Responsive Deliverables](http://daverupert.com/2013/04/responsive-deliverables/)
+[^2]: ‘[Responsive Deliverables](http://daverupert.com/2013/04/responsive-deliverables/)’ by Dave Rupert
