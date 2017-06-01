@@ -1,8 +1,14 @@
 {
   "title": "Good Enough Design for Responsive Web Apps",
+  "plugins": [
+    "image-captions"
+  ],
   "pluginsConfig": {
     "fontsettings": {
       "family": "serif"
+    },
+    "image-captions": {
+      "caption": "_CAPTION_"
     }
   },
   "pdf": {

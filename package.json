@@ -22,6 +22,7 @@
   },
   "homepage": "https://goodenough.design",
   "devDependencies": {
+    "gitbook-plugin-image-captions": "^3.1.0",
     "textlint": "^8.2.1",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-alex": "^1.2.0",
