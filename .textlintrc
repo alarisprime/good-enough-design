@@ -2,7 +2,8 @@
 	"rules": {
 		"no-todo": true,
 		"rousseau": {
-			"showLevels": ["suggestion", "warning", "error"]
+			"showLevels": ["suggestion", "warning", "error"],
+			"ignoreTypes": ["readibility"]
 		},
 		"alex": {
 			"allow": []
