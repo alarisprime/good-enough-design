@@ -51,3 +51,4 @@ $RECYCLE.BIN/
 _book
 
 node_modules
+npm-debug.log
