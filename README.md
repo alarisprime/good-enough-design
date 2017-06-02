@@ -6,4 +6,6 @@ Contact us or ask your company to book a [Workshop Session](https://alarisprime.
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alarisprime/good-enough-design.svg)](https://greenkeeper.io/)
+
 © 2017 [Alaris Prime](https://alarisprime.com/). Released under an MIT License.
