@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "scripts": {
     "test": "gitbook build",
-    "lint": "textlint ./**/*.md"
+    "lint": "textlint ./**/*.md",
+    "serve": "gitbook serve",
+    "build": "npm test"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,7 @@
   },
   "homepage": "https://goodenough.design",
   "devDependencies": {
+    "gitbook-cli": "^2.3.0",
     "gitbook-plugin-image-captions": "^3.1.0",
     "textlint": "^8.2.1",
     "textlint-filter-rule-comments": "^1.2.2",
